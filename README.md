@@ -1,4 +1,5 @@
 Project Description: Facial Emotion Recognition Using CNN
+
 Objective:
 The goal of this project is to develop a Convolutional Neural Network (CNN) model that can accurately recognize facial emotions from grayscale images. The model is trained and validated using the "Face Expression Recognition Dataset" obtained from Kaggle.
 
